@@ -8,8 +8,8 @@ permalink: /delete-data/
 
 Arrow Cube does not use accounts. To ask us to delete the information linked to your game install:
 
-1. In the game, open **Settings** and copy your **player ID** (shown in Settings).
-2. Email **support-arrowcube@rubiconperform.com** with the subject **Delete my data**, and include your player ID.
+1. In the game, open **Settings** and tap **Contact Us**. An email to **support-arrowcube@rubiconperform.com** opens with your player ID already in it.
+2. Add **Delete my data** to the message and send it. We need the player ID to find your information, because we do not know your name or email address.
 
 What happens next:
 
